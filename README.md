@@ -16,4 +16,5 @@ The number of fingers held up by the user determines which LEDs are turned on or
     <td><img src="/showcase/IMG_2890.jpg" width="100%"/></td>
   </tr>
 </table>
+
 ![Image_5](/showcase/IMG_2891.jpg) 
