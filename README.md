@@ -1,9 +1,19 @@
-# Arduino Computer-Vision
+# Controllable LEDs using Hand Gestures
 
-### This is an old repository/project from November 10th 2024
+This project uses an Arduino microcontroller to control LEDs, paired with a Python 
+program that leverages Computer Vision to detect hand gestures in real time. 
+The number of fingers held up by the user determines which LEDs are turned on or off.
 
-![Image_1](/showcase/IMG_2887.jpg) 
-![Image_2](/showcase/IMG_2888.jpg) 
-![Image_3](/showcase/IMG_2889.jpg) 
-![Image_4](/showcase/IMG_2890.jpg) 
+*Created: November 10th, 2024*
+
+<table>
+  <tr>
+    <td><img src="/showcase/IMG_2887.jpg" width="100%"/></td>
+    <td><img src="/showcase/IMG_2888.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="/showcase/IMG_2889.jpg" width="100%"/></td>
+    <td><img src="/showcase/IMG_2890.jpg" width="100%"/></td>
+  </tr>
+</table>
 ![Image_5](/showcase/IMG_2891.jpg) 
